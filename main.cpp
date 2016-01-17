@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
     //    return a.exec();
 
 
-    // Changes
+    // Changes #2
     qWarning("Hello World!");
 
 }
